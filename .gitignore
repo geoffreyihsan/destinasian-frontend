@@ -34,3 +34,7 @@ yarn-error.log*
 # .github
 /.github
 /.github/*
+
+# .faust
+/.faust
+/.faust/*
